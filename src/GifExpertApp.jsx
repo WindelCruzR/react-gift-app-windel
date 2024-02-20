@@ -26,7 +26,7 @@ export const GifExpertApp = () => {
     <>
         {/* Título de la aplicación*/}
         <h3>GifExpertApp</h3>
-        <h2>Otro cambio</h2>
+        <h2>Otro cambio mas para estudiar</h2>
         <AddCategory 
             // Prop del componente con el fin de que se comunique el hijo al padre
             // ¿En qué consiste? Consiste en que se le pasará un valor a ese componente para que retorne en el onAddCategory para cambiar el estado del form.
